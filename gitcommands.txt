@@ -1,0 +1,14 @@
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/pranay96765/Iamafailur.git
+git push -u origin main
+
+
+
+
+GITHUB 
+Email: vpranay189@gmail.com
+password: pranay@999@
+name: pranay96765
